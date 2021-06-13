@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Recipes SQLite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_to_select_image">Click to select image</string>
+    <string name="enter_food_name">Enter food name</string>
+    <string name="enter_food_ingredients">Enter food ingredients</string>
+    <string name="save">Save</string>
+</resources>
